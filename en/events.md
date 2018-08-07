@@ -2,7 +2,7 @@
 
 Commerce emits a number of events, which enable developers to extend or modify behaviors. Be sure to familiarize yourself with the [Craft 3 events documentation](https://docs.craftcms.com/v3/extend/updating-plugins.html#events) before digging in.
 
-Below, the available events are divided into conceptual groups, so adjacent items may not be documented within the same class. For a complete, up-to-date list, view the source of the relevant Commerce _Elements_, _Models_, and _Services_.
+Below, the available events are divided into conceptual groups, so adjacent items may not live within the same class. For a complete, up-to-date list, view the source of the relevant Commerce _Elements_, _Models_, and _Services_.
 
 ## Orders
 - `craft\commerce\elements\Order::EVENT_BEFORE_COMPLETE_ORDER`
