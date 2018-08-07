@@ -67,6 +67,7 @@ Craft Commerce 2 Documentation
 - [Purchasables](en/purchasables.md)
 - [Adjusters](en/adjusters.md)
 - [Shipping Methods](en/shipping-methods.md)
+- [Events](en/events.md)
 
 ## Template guides
 
